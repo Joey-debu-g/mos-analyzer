@@ -1,0 +1,20 @@
+# Python 缓存与本机环境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 打包输出与编辑器设置
+build/
+dist/
+*.spec
+.idea/
+.vscode/
+
+# 本地分析结果和项目；自带合成示例除外
+results/
+exports/
+*.mosproj
+!examples/*.mosproj
+*.tmp
+.refactor_baseline.json
