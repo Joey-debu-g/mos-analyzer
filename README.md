@@ -4,7 +4,7 @@
 
 ## 启动
 
-当前电脑已具备 Python、Tkinter、Matplotlib。双击 `启动软件.bat`，或在本目录执行：
+确保电脑已具备 Python、Tkinter、Matplotlib。双击 `启动软件.bat`，或在本目录执行：
 
 ```powershell
 python app.py
